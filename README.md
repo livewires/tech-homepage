@@ -25,7 +25,7 @@ We'll be using Blender. [Click here for our setup guide](https://github.com/live
 
 ### Sound Production
 
-We'll be using Reaper, and some project files that we've put together. Check out the (setup guide here)[https://github.com/livewires/audio-production]
+We'll be using Reaper, and some project files that we've put together. Check out the [setup guide here](https://github.com/livewires/audio-production)
 
 ### Video Production
 
