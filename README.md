@@ -10,7 +10,7 @@ For support, if anything is not working or unclear, please use Slack, or email t
 
 ## Hardware
 
-You should only need your computer or laptop. For 3D graphics we highly recommend that you have a mouse rather than just using a laptop trackpad. 
+You should only need your computer or laptop. For 3D graphics we highly recommend that you have a mouse rather than just using a laptop trackpad. For sound production we highly recommend using headphones. 
 
 ## Tech Activities
 
@@ -25,11 +25,11 @@ We'll be using Blender. [Click here for our setup guide](https://github.com/live
 
 ### Sound Production
 
-We'll be using Reaper, and some project files that we've put together. Check out the [setup guide here](https://github.com/livewires/audio-production)
+We'll be using Reaper, and some project files that we've put together. Check out the [setup guide here](https://github.com/livewires/audio-production/blob/master/setup-guide.md)
 
 ### Video Production
 
-
+For video production, we're going to be using DaVinci Resolve. We've got a [setup guide here](https://github.com/Cassibelanus/advanced-video/blob/master/SetupGuide.md)
 
 
 
