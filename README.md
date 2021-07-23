@@ -1,6 +1,6 @@
-# LiveWires Tech 2020
+# LiveWires Tech 2021
 
-Welcome to LiveWires Tech 2020.
+Welcome to LiveWires Tech 2021.
 
 This year things are a bit different, and you're having to use your own computers. 
 You should have been emailed the tech activities you'll be doing throughout the week. 
